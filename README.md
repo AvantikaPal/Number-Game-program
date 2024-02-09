@@ -1,7 +1,7 @@
 # Number-Game-program
 Number Game program created for CodSoft Internship.
 
-#What we have to do?
+**#What we have to do?**
 
 1-We have to Genrate a random number within the given range.
 
@@ -11,7 +11,7 @@ Number Game program created for CodSoft Internship.
 
 4-We have to repeat the code until user guesses the correct number or give limited attempts.
 
-#Optional
+**#Optional**
 
 1-Option for mutliple round.
 
@@ -19,6 +19,6 @@ Number Game program created for CodSoft Internship.
 
 3-Display Attempts and Score.
 
-#What I want to add
+**#What I want to add**
 
 1- Show users win rate at end.
